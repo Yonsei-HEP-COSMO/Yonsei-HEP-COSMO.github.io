@@ -2,7 +2,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Yonsei HEP-COSMO</title>
-      <link>https://yonsei-hep-cosmo.github.io/</link>
+      <link>https://yonsei-hep-cosmo.github.io</link>
       <description>Yonsei High Energy Physics and Cosmology Group</description>
       <generator>Zola</generator>
       <language>en</language>
