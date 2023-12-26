@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Yonsei HEP-COSMO</title>
+      <link>https://yonsei-hep-cosmo.github.io/</link>
+      <description>Yonsei High Energy Physics and Cosmology Group</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://yonsei-hep-cosmo.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Tue, 09 Jan 2024 10:30:00 +0900</lastBuildDate>
+      <item>
+          <title>Sinchon GW Meeting</title>
+          <pubDate>Tue, 09 Jan 2024 10:30:00 +0900</pubDate>
+          <author>Tae-Geun Kim</author>
+          <link>https://yonsei-hep-cosmo.github.io/240109-gw/</link>
+          <guid>https://yonsei-hep-cosmo.github.io/240109-gw/</guid>
+          <description xml:base="https://yonsei-hep-cosmo.github.io/240109-gw/">&lt;h1 id=&quot;sinchon-gw-meeting&quot;&gt;Sinchon GW Meeting&lt;&#x2F;h1&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Date&lt;&#x2F;strong&gt;: 2024-01-09 (Tue) 10:30 ~ 12:30&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Place&lt;&#x2F;strong&gt;: 555A, Science Hall, Yonsei University&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Yonsei Ramen Seminar</title>
+          <pubDate>Fri, 29 Dec 2023 13:00:00 +0900</pubDate>
+          <author>Tae-Geun Kim</author>
+          <link>https://yonsei-hep-cosmo.github.io/231229-gw/</link>
+          <guid>https://yonsei-hep-cosmo.github.io/231229-gw/</guid>
+          <description xml:base="https://yonsei-hep-cosmo.github.io/231229-gw/">&lt;h1 id=&quot;the-2nd-yonsei-ramen-seminar&quot;&gt;The 2nd Yonsei Ramen Seminar&lt;&#x2F;h1&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Date&lt;&#x2F;strong&gt;: 2023-12-29 (Fri) 13:00 ~ 15:00&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Place&lt;&#x2F;strong&gt;: 327, Science Hall, Yonsei University&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Indico&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;ihepco.yonsei.ac.kr&#x2F;event&#x2F;283&#x2F;&quot;&gt;https:&#x2F;&#x2F;ihepco.yonsei.ac.kr&#x2F;event&#x2F;283&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr&#x2F;&gt;&lt;br&#x2F;&gt;
+&lt;h3 id=&quot;1-how-gravitational-waves-can-probe-dark-universe&quot;&gt;1. How gravitational waves can probe dark universe&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Speaker&lt;&#x2F;strong&gt;: Prof. Sunghoon Jung (Seoul National University)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Abstract&lt;&#x2F;strong&gt;:  I will briefly talk about the unique opportunities with gravitational waves in probing dark matter and dark energy (reviewing lensing 101), and in particular establishing a co-existing scenario of PBH and particle DM.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;h3 id=&quot;2-high-frequency-gw-in-axion-haloscopes&quot;&gt;2. High-Frequency GW in Axion Haloscopes&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Speaker&lt;&#x2F;strong&gt;: Dr. Sung Mook Lee (KAIST)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Abstract&lt;&#x2F;strong&gt;: In recent years, there has been growing interest and progress in high-frequency gravitational waves (HFGWs) within both theoretical and experimental realms. Particularly noteworthy is the emergence of oscillating magnetic fields induced by both axions and GWs in the presence of electromagnetic fields—an intriguing intersection that holds the potential for a detectable fingerprint. This introduces new possibilities for exploring the synergy between axion and GW detection in the high-frequency regime, extending beyond the capabilities of instruments like LIGO. In this talk, I will present an overview of the opportunities and challenges within the broader landscape of the HFGW program. The discussion will then pivot to a focused examination of the sensitivity of low-mass axion haloscopes to HFGWs. Notably, we will argue that the currently employed highly symmetric geometry is suboptimal for GW searches and explore strategies to overcome these challenges.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Test</title>
+          <pubDate>Sun, 17 Dec 2023 10:30:00 +0900</pubDate>
+          <author>Unknown</author>
+          <link>https://yonsei-hep-cosmo.github.io/archives/231217-test/</link>
+          <guid>https://yonsei-hep-cosmo.github.io/archives/231217-test/</guid>
+          <description xml:base="https://yonsei-hep-cosmo.github.io/archives/231217-test/">&lt;p&gt;Hello&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
