@@ -7,7 +7,22 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://yonsei-hep-cosmo.github.io/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Tue, 09 Jan 2024 10:30:00 +0900</lastBuildDate>
+      <lastBuildDate>Tue, 16 Jan 2024 09:00:00 +0900</lastBuildDate>
+      <item>
+          <title>Workshop on Dark Universe</title>
+          <pubDate>Tue, 16 Jan 2024 09:00:00 +0900</pubDate>
+          <author>Tae-Geun Kim</author>
+          <link>https://yonsei-hep-cosmo.github.io/240116-wdu/</link>
+          <guid>https://yonsei-hep-cosmo.github.io/240116-wdu/</guid>
+          <description xml:base="https://yonsei-hep-cosmo.github.io/240116-wdu/">&lt;h1 id=&quot;workshop-on-dark-universe&quot;&gt;Workshop on Dark Universe&lt;&#x2F;h1&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Date&lt;&#x2F;strong&gt;: 2024-01-16 (Tue) 09:00 ~ 2024-01-19 (Fri) 18:00&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Place&lt;&#x2F;strong&gt;: UTOP Marina Hotel &amp;amp; Resort (여수 유탑 마리나 호텔 &amp;amp; 리조트)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Indico&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;ihepco.yonsei.ac.kr&#x2F;event&#x2F;285&#x2F;&quot;&gt;https:&#x2F;&#x2F;ihepco.yonsei.ac.kr&#x2F;event&#x2F;285&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
       <item>
           <title>Sinchon GW Meeting</title>
           <pubDate>Tue, 09 Jan 2024 10:30:00 +0900</pubDate>
