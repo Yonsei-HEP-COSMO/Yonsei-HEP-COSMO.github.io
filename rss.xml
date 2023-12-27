@@ -64,14 +64,5 @@
 &lt;&#x2F;ul&gt;
 </description>
       </item>
-      <item>
-          <title>Test</title>
-          <pubDate>Sun, 17 Dec 2023 10:30:00 +0900</pubDate>
-          <author>Unknown</author>
-          <link>https://yonsei-hep-cosmo.github.io/archives/231217-test/</link>
-          <guid>https://yonsei-hep-cosmo.github.io/archives/231217-test/</guid>
-          <description xml:base="https://yonsei-hep-cosmo.github.io/archives/231217-test/">&lt;p&gt;Hello&lt;&#x2F;p&gt;
-</description>
-      </item>
     </channel>
 </rss>
