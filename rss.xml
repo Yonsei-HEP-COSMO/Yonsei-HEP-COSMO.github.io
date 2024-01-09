@@ -7,7 +7,22 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://yonsei-hep-cosmo.github.io/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Tue, 16 Jan 2024 09:00:00 +0900</lastBuildDate>
+      <lastBuildDate>Mon, 22 Jan 2024 12:00:00 +0900</lastBuildDate>
+      <item>
+          <title>Group Meeting</title>
+          <pubDate>Mon, 22 Jan 2024 12:00:00 +0900</pubDate>
+          <author>Tae-Geun Kim</author>
+          <link>https://yonsei-hep-cosmo.github.io/240122-01/</link>
+          <guid>https://yonsei-hep-cosmo.github.io/240122-01/</guid>
+          <description xml:base="https://yonsei-hep-cosmo.github.io/240122-01/">&lt;h1 id=&quot;group-meeting&quot;&gt;Group Meeting&lt;&#x2F;h1&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Date&lt;&#x2F;strong&gt;: 2024-01-22 (Mon) 12:00 - 13:00&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Place&lt;&#x2F;strong&gt;: 557, Science Hall, Yonsei University&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Topic&lt;&#x2F;strong&gt; : Share status or research plans for the year with a maximum of 2 slides and around ~5 minutes per person.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
       <item>
           <title>Workshop on Dark Universe</title>
           <pubDate>Tue, 16 Jan 2024 09:00:00 +0900</pubDate>
