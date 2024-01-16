@@ -4,10 +4,6 @@
         <loc>https://yonsei-hep-cosmo.github.io/</loc>
     </url>
     <url>
-        <loc>https://yonsei-hep-cosmo.github.io/240115-01/</loc>
-        <lastmod>2024-01-15T11:00:00+09:00</lastmod>
-    </url>
-    <url>
         <loc>https://yonsei-hep-cosmo.github.io/240116-01/</loc>
         <lastmod>2024-01-16T09:00:00+09:00</lastmod>
     </url>
@@ -36,6 +32,10 @@
     <url>
         <loc>https://yonsei-hep-cosmo.github.io/archives/240109-01/</loc>
         <lastmod>2024-01-09T10:30:00+09:00</lastmod>
+    </url>
+    <url>
+        <loc>https://yonsei-hep-cosmo.github.io/archives/240115-01/</loc>
+        <lastmod>2024-01-15T11:00:00+09:00</lastmod>
     </url>
     <url>
         <loc>https://yonsei-hep-cosmo.github.io/archives/page/1/</loc>
