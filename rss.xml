@@ -7,7 +7,21 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://yonsei-hep-cosmo.github.io/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Wed, 31 Jan 2024 10:30:00 +0900</lastBuildDate>
+      <lastBuildDate>Wed, 14 Feb 2024 10:30:00 +0900</lastBuildDate>
+      <item>
+          <title>Sinchon-GW Meeting</title>
+          <pubDate>Wed, 14 Feb 2024 10:30:00 +0900</pubDate>
+          <author>Tae-Geun Kim</author>
+          <link>https://yonsei-hep-cosmo.github.io/240214-01/</link>
+          <guid>https://yonsei-hep-cosmo.github.io/240214-01/</guid>
+          <description xml:base="https://yonsei-hep-cosmo.github.io/240214-01/">&lt;h1 id=&quot;sinchon-gw-meeting&quot;&gt;Sinchon-GW Meeting&lt;&#x2F;h1&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Date&lt;&#x2F;strong&gt;: 2024-02-14 (Wed) 10:30 - 12:00&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Place&lt;&#x2F;strong&gt;: 327, Science Hall, Yonsei University&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
       <item>
           <title>Sinchon-GW Meeting</title>
           <pubDate>Wed, 31 Jan 2024 10:30:00 +0900</pubDate>
