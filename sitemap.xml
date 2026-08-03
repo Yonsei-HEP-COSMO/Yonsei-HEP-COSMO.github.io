@@ -70,10 +70,17 @@
         <lastmod>2025-03-21T16:00:00+09:00</lastmod>
     </url>
     <url>
-        <loc>https://yonsei-hep-cosmo.github.io/archives/page/1/</loc>
+        <loc>https://yonsei-hep-cosmo.github.io/archives/260804-01/</loc>
+        <lastmod>2026-08-04T10:00:00+09:00</lastmod>
     </url>
     <url>
         <loc>https://yonsei-hep-cosmo.github.io/categories/</loc>
+    </url>
+    <url>
+        <loc>https://yonsei-hep-cosmo.github.io/categories/lecture/</loc>
+    </url>
+    <url>
+        <loc>https://yonsei-hep-cosmo.github.io/categories/lecture/page/1/</loc>
     </url>
     <url>
         <loc>https://yonsei-hep-cosmo.github.io/categories/meeting/</loc>
@@ -89,6 +96,9 @@
     </url>
     <url>
         <loc>https://yonsei-hep-cosmo.github.io/categories/seminar/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://yonsei-hep-cosmo.github.io/categories/seminar/page/2/</loc>
     </url>
     <url>
         <loc>https://yonsei-hep-cosmo.github.io/categories/snail-lecture/</loc>
@@ -119,6 +129,10 @@
     <url>
         <loc>https://yonsei-hep-cosmo.github.io/gallery/26-7-13/</loc>
         <lastmod>2026-07-13</lastmod>
+    </url>
+    <url>
+        <loc>https://yonsei-hep-cosmo.github.io/gallery/26-7-24/</loc>
+        <lastmod>2026-07-24</lastmod>
     </url>
     <url>
         <loc>https://yonsei-hep-cosmo.github.io/members/</loc>
@@ -155,17 +169,5 @@
     </url>
     <url>
         <loc>https://yonsei-hep-cosmo.github.io/tags/ramen/page/1/</loc>
-    </url>
-    <url>
-        <loc>https://yonsei-hep-cosmo.github.io/tags/seminar/</loc>
-    </url>
-    <url>
-        <loc>https://yonsei-hep-cosmo.github.io/tags/seminar/page/1/</loc>
-    </url>
-    <url>
-        <loc>https://yonsei-hep-cosmo.github.io/tags/workshop/</loc>
-    </url>
-    <url>
-        <loc>https://yonsei-hep-cosmo.github.io/tags/workshop/page/1/</loc>
     </url>
 </urlset>
